@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project # 14</string>
+    <string name="cargas">Gas for your car</string>
+    <string name="electric_car_charging_station">Come here to charge your electrically powered vehicle!</string>
+    <string name="carwash">Come here to wash your gas or electric car</string>
+    <string name="tvPackage">Car Wash Packages</string>
+    <string name="hint">Number of Washes</string>
+    <string name="rbExteriorwash">Exterior only</string>
+    <string name="rbWashVac">Exterior With interior Vacuum</string>
+    <string name="btCalcPackage">Calculate Package</string>
+</resources>
